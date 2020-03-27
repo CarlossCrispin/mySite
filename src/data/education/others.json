@@ -1,0 +1,22 @@
+{
+    "slug" : "others",
+    "title": "Otros logros Académicos",
+    "description" : "Talleres, diplomados y conferencias en las que he participado",
+    "items":[
+        {
+            "name": "Taller de pseudocódigo",
+            "degree": "Certificación"
+        },
+        {
+            "name": "Taller de impresión 3D",
+            "degree": "Certificación"
+        },
+        {
+            "name": "Taller developer full stack",
+            "degree": "Certificación"
+        }
+
+        
+    ]
+    
+}

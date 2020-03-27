@@ -1,0 +1,24 @@
+{
+    "slug" : "online",
+    "title": "Cursos en Lìnea",
+    "description" : "Crusos finalizados en plataformas de educación en internet.",
+    "items":[
+        {
+            "name": "Curso Profesional de JavaScript",
+            "url": "http://codigofacilito.com/courses/javascript-profesional"
+          },
+          {
+            "name": "JavaScript y el DOM",
+            "url": "http://codigofacilito.com/courses/javascript-dom"
+          },
+          {
+            "name": "Curso profesional de PHP",
+            "url": "http://codigofacilito.com/courses/php-profesional"
+          },
+          {
+            "name": "Curso Profesional de Python",
+            "url": "http://codigofacilito.com/courses/python-profesional"
+          }
+    ]
+    
+}

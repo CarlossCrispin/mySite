@@ -1,0 +1,18 @@
+{
+    "slug" : "presential",
+    "title": "Formación académica",
+    "description" : "Fromación académica, grados de estudio e Instituciones a las que asistí.",
+    "items":[
+        {
+            "name": "Instituto Tecnológico de México",
+            "degree": "Ingeniería en Tecnologías de la Información y Comunicaciones",
+            "score": "96"
+        },
+        {
+            "name": "Colegio de Ciencias y Humanidades",
+            "degree": "Bachillerato",
+            "score": "88"
+        }
+    ]
+    
+}
